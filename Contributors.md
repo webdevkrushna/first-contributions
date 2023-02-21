@@ -8,6 +8,7 @@ Amlendra
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 
 - [vvirtues](github.com/vvirtues)
+- [krushna kale](github.com/webdevkrushna)
 - [kas tas](https://github.com/krishthukral)
 - [Marco Baldo](https://github.com/baldomarco)
 - [Krish Thukral](https://github.com/krishthukral1)
